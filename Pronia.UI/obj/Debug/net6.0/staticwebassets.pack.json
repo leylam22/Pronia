@@ -1,0 +1,2013 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\css\\icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\boxicons.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\boxiconsd41d.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxiconsd41d.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\dripicons-v2.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\dripicons-v2.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\dripicons-v2.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\dripicons-v2.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\dripicons-v2d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\fa-brands-400.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\fa-regular-400.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\fa-solid-900.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\materialdesignicons-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\materialdesignicons-webfonte910.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfonte910.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\materialdesignicons-webfonte910.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfonte910.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\materialdesignicons-webfonte910.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfonte910.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\fonts\\materialdesignicons-webfonte910.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfonte910.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\brands\\bitbucket.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\bitbucket.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\brands\\dropbox.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\dropbox.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\brands\\github.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\brands\\mail_chimp.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\mail_chimp.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\clients\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\clients\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\clients\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\clients\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\clients\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\clients\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\coming-soon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\coming-soon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\companies\\img-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\companies\\img-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\companies\\img-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\companies\\img-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\img-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\companies\\img-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\img-5.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\companies\\img-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\img-6.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\crypto\\blog\\img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\crypto\\blog\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\crypto\\blog\\img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\crypto\\blog\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\crypto\\blog\\img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\crypto\\blog\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\crypto\\features-img\\img-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\crypto\\features-img\\img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\crypto\\features-img\\img-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\crypto\\features-img\\img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\error-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\error-img.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\flags\\germany.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\germany.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\flags\\italy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\italy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\flags\\russia.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\russia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\flags\\spain.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\spain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\flags\\us.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\layouts\\layout-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\layouts\\layout-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\layouts\\layout-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\layouts\\layout-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\layouts\\layout-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\layouts\\layout-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\layouts\\layout-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\layouts\\layout-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\logo-light.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\logo-light.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\maintenance.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\maintenance.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\megamenu-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megamenu-img.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\product\\img-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\product\\img-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\product\\img-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\product\\img-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\img-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\product\\img-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\img-5.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\product\\img-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\img-6.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\product\\img-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\img-7.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\product\\img-8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\img-8.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\profile-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile-img.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\small\\img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\small\\img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\small\\img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\small\\img-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\small\\img-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\small\\img-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small\\img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\small\\img-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small\\img-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\users\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\users\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\users\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\users\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\users\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\users\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\avatar-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\users\\avatar-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\avatar-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\users\\avatar-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\avatar-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\images\\verification-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\verification-img.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\alerts.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\alerts.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\apexcharts.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\apexcharts.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\auth-2-carousel.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\auth-2-carousel.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\bootstrap-toastr.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\bootstrap-toastr.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\calendar.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\calendar.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\calendars-full.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\calendars-full.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\calendars.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\calendars.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\chartjs.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\chartjs.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\coming-soon.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\coming-soon.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\crypto-dashboard.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\crypto-dashboard.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\crypto-exchange.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\crypto-exchange.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\crypto-kyc-app.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\crypto-kyc-app.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\crypto-orders.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\crypto-orders.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\crypto-wallet.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\crypto-wallet.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\dashboard-blog.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\dashboard-blog.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\dashboard.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\dashboard.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\datatables.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\datatables.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\echarts.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\echarts.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\ecommerce-cart.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ecommerce-cart.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\ecommerce-select2.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ecommerce-select2.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\email-editor.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\email-editor.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\file-manager.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\file-manager.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\flot.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\flot.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\fontawesome.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\fontawesome.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\form-advanced.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\form-advanced.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\form-editor.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\form-editor.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\form-mask.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\form-mask.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\form-repeater.int.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\form-repeater.int.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\form-validation.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\form-validation.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\form-wizard.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\form-wizard.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\form-xeditable.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\form-xeditable.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\gmaps.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\gmaps.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\ico-landing.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ico-landing.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\jquery-knob.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\jquery-knob.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\leaflet-map.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\leaflet-map.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\leaflet-us-states.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\leaflet-us-states.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\lightbox.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\lightbox.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\materialdesign.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\materialdesign.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\modal.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\modal.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\product-filter-range.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\product-filter-range.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\profile.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\profile.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\project-overview.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\project-overview.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\range-sliders.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\range-sliders.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\rating-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\rating-init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\saas-dashboard.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\saas-dashboard.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\schedules.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\schedules.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\session-timeout.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\session-timeout.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\sparklines.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\sparklines.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\sweet-alerts.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\sweet-alerts.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\table-editable.int.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\table-editable.int.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\table-responsive.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\table-responsive.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\task-create.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\task-create.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\task-form.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\task-form.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\task-kanban.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\task-kanban.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\tasklist.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\tasklist.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\timeline.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\timeline.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\toastr.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\toastr.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\tui-charts.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\tui-charts.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\two-step-verification.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\two-step-verification.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\validation.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\validation.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\js\\pages\\vector-maps.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\vector-maps.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\@chenfengyuan\\datepicker\\datepicker.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\@chenfengyuan\\datepicker\\datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\@chenfengyuan\\datepicker\\datepicker.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\@chenfengyuan\\datepicker\\datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\@curiosityx\\bootstrap-session-timeout\\index.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\@curiosityx\\bootstrap-session-timeout\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\@fullcalendar\\bootstrap\\main.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\@fullcalendar\\bootstrap\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\@fullcalendar\\bootstrap\\main.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\@fullcalendar\\bootstrap\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\@fullcalendar\\core\\main.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\@fullcalendar\\core\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\@fullcalendar\\core\\main.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\@fullcalendar\\core\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\@fullcalendar\\daygrid\\main.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\@fullcalendar\\daygrid\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\@fullcalendar\\daygrid\\main.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\@fullcalendar\\daygrid\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\@fullcalendar\\interaction\\main.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\@fullcalendar\\interaction\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\@fullcalendar\\timegrid\\main.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\@fullcalendar\\timegrid\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\@fullcalendar\\timegrid\\main.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\@fullcalendar\\timegrid\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\admin-resources\\jquery.vectormap\\jquery-jvectormap-1.2.2.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\jquery.vectormap\\jquery-jvectormap-1.2.2.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\admin-resources\\jquery.vectormap\\jquery-jvectormap-1.2.2.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\jquery.vectormap\\jquery-jvectormap-1.2.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-au-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-au-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-ca-lcc-en.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-ca-lcc-en.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-in-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-in-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-us-il-chicago-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-us-il-chicago-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-us-merc-en.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-us-merc-en.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\admin-resources\\rwd-table\\rwd-table.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\rwd-table\\rwd-table.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\admin-resources\\rwd-table\\rwd-table.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\rwd-table\\rwd-table.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\apexcharts\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\apexcharts\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\bootstrap-datepicker\\css\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-datepicker\\css\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\bootstrap-datepicker\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-datepicker\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\bootstrap-editable\\css\\bootstrap-editable.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-editable\\css\\bootstrap-editable.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\bootstrap-editable\\img\\clear.png",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-editable\\img\\clear.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\bootstrap-editable\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-editable\\img\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\bootstrap-editable\\js\\index.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-editable\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\bootstrap-maxlength\\bootstrap-maxlength.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-maxlength\\bootstrap-maxlength.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\bootstrap-rating\\bootstrap-rating.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-rating\\bootstrap-rating.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\bootstrap-rating\\bootstrap-rating.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-rating\\bootstrap-rating.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\bootstrap-timepicker\\css\\bootstrap-timepicker.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-timepicker\\css\\bootstrap-timepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\bootstrap-timepicker\\js\\bootstrap-timepicker.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-timepicker\\js\\bootstrap-timepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\chance\\chance.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\chance\\chance.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\chart.js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\chart.js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\datatables.net-bs4\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-bs4\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\datatables.net-bs4\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-bs4\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\datatables.net-buttons-bs4\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-buttons-bs4\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\datatables.net-buttons-bs4\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-buttons-bs4\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\datatables.net-buttons\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-buttons\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\datatables.net-buttons\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-buttons\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\datatables.net-buttons\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-buttons\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\datatables.net-buttons\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-buttons\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\datatables.net-responsive-bs4\\css\\responsive.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-responsive-bs4\\css\\responsive.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\datatables.net-responsive-bs4\\js\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-responsive-bs4\\js\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\datatables.net-responsive\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-responsive\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\datatables.net\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\dragula\\dragula.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\dragula\\dragula.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\dragula\\dragula.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\dragula\\dragula.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\dropzone\\min\\dropzone.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\dropzone\\min\\dropzone.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\dropzone\\min\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\dropzone\\min\\dropzone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\echarts\\echarts.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\echarts\\echarts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\flot-charts\\jquery.flot.crosshair.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\flot-charts\\jquery.flot.crosshair.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\flot-charts\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\flot-charts\\jquery.flot.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\flot-charts\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\flot-charts\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\flot-charts\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\flot-charts\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\flot-charts\\jquery.flot.selection.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\flot-charts\\jquery.flot.selection.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\flot-charts\\jquery.flot.stack.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\flot-charts\\jquery.flot.stack.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\flot-charts\\jquery.flot.time.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\flot-charts\\jquery.flot.time.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\flot.curvedLines\\curvedLines.html",
+      "PackagePath": "staticwebassets\\assets\\libs\\flot.curvedLines\\curvedLines.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\gmaps\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\gmaps\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\inputmask\\min\\jquery.inputmask.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\inputmask\\min\\jquery.inputmask.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\ion-rangeslider\\css\\ion.rangeSlider.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\ion-rangeslider\\css\\ion.rangeSlider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\ion-rangeslider\\js\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\ion-rangeslider\\js\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\jquery-countdown\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery-countdown\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\jquery-knob\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery-knob\\jquery.knob.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\jquery-sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery-sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\jquery-steps\\build\\jquery.steps.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery-steps\\build\\jquery.steps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\jquery-ui-dist\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery-ui-dist\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\jquery-validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery-validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\jquery.easing\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery.easing\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\jquery.flot.tooltip\\js\\jquery.flot.tooltip.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery.flot.tooltip\\js\\jquery.flot.tooltip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\jquery.repeater\\jquery.repeater.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery.repeater\\jquery.repeater.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\jszip\\jszip.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jszip\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\leaflet\\images\\layers-2x.png",
+      "PackagePath": "staticwebassets\\assets\\libs\\leaflet\\images\\layers-2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\leaflet\\images\\layers.png",
+      "PackagePath": "staticwebassets\\assets\\libs\\leaflet\\images\\layers.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\leaflet\\images\\marker-icon.png",
+      "PackagePath": "staticwebassets\\assets\\libs\\leaflet\\images\\marker-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\leaflet\\leaflet.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\leaflet\\leaflet.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\leaflet\\leaflet.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\leaflet\\leaflet.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\magnific-popup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\magnific-popup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\magnific-popup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\magnific-popup\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\masonry-layout\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\masonry-layout\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\metismenu\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\metismenu\\metisMenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\moment\\min\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\min\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\node-waves\\waves.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\node-waves\\waves.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\owl.carousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\owl.carousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\owl.carousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\owl.carousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\owl.carousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\libs\\owl.carousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\owl.carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\owl.carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\parsleyjs\\parsley.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\parsleyjs\\parsley.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\pdfmake\\build\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\pdfmake\\build\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\pdfmake\\build\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\pdfmake\\build\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\simplebar\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\simplebar\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\spectrum-colorpicker2\\spectrum.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\spectrum-colorpicker2\\spectrum.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\spectrum-colorpicker2\\spectrum.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\spectrum-colorpicker2\\spectrum.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\summernote\\font\\summernote.eot",
+      "PackagePath": "staticwebassets\\assets\\libs\\summernote\\font\\summernote.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\summernote\\font\\summernote.html",
+      "PackagePath": "staticwebassets\\assets\\libs\\summernote\\font\\summernote.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\summernote\\font\\summernote.ttf",
+      "PackagePath": "staticwebassets\\assets\\libs\\summernote\\font\\summernote.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\summernote\\font\\summernote.woff",
+      "PackagePath": "staticwebassets\\assets\\libs\\summernote\\font\\summernote.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\summernote\\font\\summernoted41d.eot",
+      "PackagePath": "staticwebassets\\assets\\libs\\summernote\\font\\summernoted41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\summernote\\summernote-bs4.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\summernote\\summernote-bs4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\table-edits\\build\\table-edits.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\table-edits\\build\\table-edits.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\toastr\\build\\toastr.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\toastr\\build\\toastr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\toastr\\build\\toastr.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\toastr\\build\\toastr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\tui-calendar\\tui-calendar.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\tui-calendar\\tui-calendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\tui-calendar\\tui-calendar.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\tui-calendar\\tui-calendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\tui-chart\\maps\\usa.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\tui-chart\\maps\\usa.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\tui-chart\\tui-chart-all.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\tui-chart\\tui-chart-all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\tui-chart\\tui-chart.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\tui-chart\\tui-chart.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\tui-date-picker\\tui-date-picker.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\tui-date-picker\\tui-date-picker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\tui-date-picker\\tui-date-picker.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\tui-date-picker\\tui-date-picker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\tui-dom\\tui-dom.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\tui-dom\\tui-dom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\tui-time-picker\\tui-time-picker.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\tui-time-picker\\tui-time-picker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assets\\libs\\tui-time-picker\\tui-time-picker.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\tui-time-picker\\tui-time-picker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\css\\Pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\assetsf\\css\\Pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assetsf\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assetsf\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assetsf\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\css\\ion.rangeSlider.min.css",
+      "PackagePath": "staticwebassets\\assetsf\\css\\ion.rangeSlider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\css\\magnific-popup.min.css",
+      "PackagePath": "staticwebassets\\assetsf\\css\\magnific-popup.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assetsf\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\css\\plugins.min.css",
+      "PackagePath": "staticwebassets\\assetsf\\css\\plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\css\\style.css",
+      "PackagePath": "staticwebassets\\assetsf\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\assetsf\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assetsf\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assetsf\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\fonts\\Pe-icon-7-stroke.eot",
+      "PackagePath": "staticwebassets\\assetsf\\fonts\\Pe-icon-7-stroke.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\fonts\\Pe-icon-7-stroke.svg",
+      "PackagePath": "staticwebassets\\assetsf\\fonts\\Pe-icon-7-stroke.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\fonts\\Pe-icon-7-stroke.ttf",
+      "PackagePath": "staticwebassets\\assetsf\\fonts\\Pe-icon-7-stroke.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\fonts\\Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets\\assetsf\\fonts\\Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assetsf\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assetsf\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assetsf\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assetsf\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assetsf\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\about\\icon\\1.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\about\\icon\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\about\\icon\\2.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\about\\icon\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\about\\team\\1-1-270x270.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\about\\team\\1-1-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\about\\team\\1-2-270x270.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\about\\team\\1-2-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\about\\team\\1-3-270x270.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\about\\team\\1-3-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\about\\team\\1-4-270x270.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\about\\team\\1-4-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\banner\\1-1-770x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\banner\\1-1-770x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\banner\\1-2-370x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\banner\\1-2-370x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\banner\\1-3-370x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\banner\\1-3-370x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\banner\\1-4-770x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\banner\\1-4-770x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\banner\\2-1-570x500.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\banner\\2-1-570x500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\banner\\2-2-570x235.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\banner\\2-2-570x235.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\banner\\2-3-570x235.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\banner\\2-3-570x235.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\banner\\3-1-1208x542.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\banner\\3-1-1208x542.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\banner\\4-1-1170x400.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\banner\\4-1-1170x400.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\blog\\avatar\\1-1-120x120.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\blog\\avatar\\1-1-120x120.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\blog\\avatar\\1-2-120x120.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\blog\\avatar\\1-2-120x120.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\blog\\avatar\\1-3-120x120.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\blog\\avatar\\1-3-120x120.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\blog\\blockquote\\quotation.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\blog\\blockquote\\quotation.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\blog\\large-size\\1-1-768x546.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\blog\\large-size\\1-1-768x546.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\blog\\medium-size\\1-1-310x220.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\blog\\medium-size\\1-1-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\blog\\medium-size\\1-2-310x220.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\blog\\medium-size\\1-2-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\blog\\medium-size\\1-3-310x220.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\blog\\medium-size\\1-3-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\blog\\medium-size\\2-1-370x270.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\blog\\medium-size\\2-1-370x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\blog\\medium-size\\2-2-370x270.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\blog\\medium-size\\2-2-370x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\blog\\small-size\\1-1-70x70.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\blog\\small-size\\1-1-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\blog\\small-size\\1-2-70x70.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\blog\\small-size\\1-2-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\blog\\small-size\\1-3-70x70.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\blog\\small-size\\1-3-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\brand\\1-1.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\brand\\1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\brand\\1-2.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\brand\\1-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\brand\\1-3.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\brand\\1-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\brand\\1-4.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\brand\\1-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\brand\\1-5.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\brand\\1-5.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\brand\\bg\\1-1170x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\brand\\bg\\1-1170x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\breadcrumb\\bg\\1-1-1919x388.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\breadcrumb\\bg\\1-1-1919x388.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\contact\\1-1-370x500.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\contact\\1-1-370x500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\error-404\\404.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\error-404\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\error-404\\bg\\1-1920x886.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\error-404\\bg\\1-1920x886.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assetsf\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\footer\\bg\\1-1920x465.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\footer\\bg\\1-1920x465.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\logo\\dark.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\logo\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\newsletter\\1-1920x400.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\newsletter\\1-1920x400.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\offcanvas\\close-white.svg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\offcanvas\\close-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\payment\\1.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\payment\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\product\\large-size\\1-1-570x633.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\product\\large-size\\1-1-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\product\\large-size\\1-2-570x633.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\product\\large-size\\1-2-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\product\\large-size\\1-3-570x633.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\product\\large-size\\1-3-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\product\\large-size\\1-4-570x633.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\product\\large-size\\1-4-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\product\\medium-size\\1-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\product\\medium-size\\1-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\product\\medium-size\\1-10-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\product\\medium-size\\1-10-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\product\\medium-size\\1-11-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\product\\medium-size\\1-11-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\product\\medium-size\\1-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\product\\medium-size\\1-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\product\\medium-size\\1-3-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\product\\medium-size\\1-3-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\product\\medium-size\\1-4-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\product\\medium-size\\1-4-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\product\\medium-size\\1-5-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\product\\medium-size\\1-5-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\product\\medium-size\\1-6-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\product\\medium-size\\1-6-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\product\\medium-size\\1-7-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\product\\medium-size\\1-7-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\product\\medium-size\\1-8-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\product\\medium-size\\1-8-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\product\\medium-size\\1-9-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\product\\medium-size\\1-9-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\product\\small-size\\1-1-112x124.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\product\\small-size\\1-1-112x124.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\product\\small-size\\1-2-112x124.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\product\\small-size\\1-2-112x124.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\product\\small-size\\1-3-112x124.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\product\\small-size\\1-3-112x124.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\product\\small-size\\2-1-70x78.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\product\\small-size\\2-1-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\product\\small-size\\2-2-70x78.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\product\\small-size\\2-2-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\product\\small-size\\2-3-70x78.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\product\\small-size\\2-3-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\shape\\1.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\shape\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\shape\\2.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\shape\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\shipping\\icon\\car.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\shipping\\icon\\car.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\shipping\\icon\\card.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\shipping\\icon\\card.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\shipping\\icon\\earphones.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\shipping\\icon\\earphones.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\shipping\\icon\\home.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\shipping\\icon\\home.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\shipping\\icon\\message.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\shipping\\icon\\message.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\shipping\\icon\\phone.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\shipping\\icon\\phone.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\shipping\\icon\\plane.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\shipping\\icon\\plane.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\shipping\\icon\\service.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\shipping\\icon\\service.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\shipping\\icon\\shield.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\shipping\\icon\\shield.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\sidebar\\banner\\1-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\sidebar\\banner\\1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\slider\\bg\\1-1.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\slider\\bg\\1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\slider\\bg\\2-1.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\slider\\bg\\2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\slider\\inner-img\\1-1-524x617.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\slider\\inner-img\\1-1-524x617.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\slider\\inner-img\\1-2-524x617.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\slider\\inner-img\\1-2-524x617.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\slider\\slide-img\\2-1-960x741.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\slider\\slide-img\\2-1-960x741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\slider\\slide-img\\2-2-960x741.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\slider\\slide-img\\2-2-960x741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\slider\\slide-img\\2-3-960x741.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\slider\\slide-img\\2-3-960x741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\testimonial\\bg\\1-1-1820x443.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\testimonial\\bg\\1-1-1820x443.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\testimonial\\icon\\quotation.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\testimonial\\icon\\quotation.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\testimonial\\user\\1.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\testimonial\\user\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\testimonial\\user\\2.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\testimonial\\user\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\testimonial\\user\\3.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\testimonial\\user\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1--1rnu4p.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1--1rnu4p.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-1-120x120.webp",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-1-120x120.webp"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-1-1820x443.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-1-1820x443.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-1-310x220.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-1-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-1-524x617.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-1-524x617.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-1-570x633.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-1-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-1-768x546.webp",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-1-768x546.webp"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-1-770x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-1-770x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-1.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-1.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-10-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-10-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-11-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-11-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-1170x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-1170x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-1920x465.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-1920x465.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-2-120x120.webp",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-2-120x120.webp"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-2-310x220.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-2-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-2-370x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-2-370x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-2-524x617.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-2-524x617.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-2-570x633.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-2-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-2.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-270x300.webp",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-270x300.webp"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-3-120x120.webp",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-3-120x120.webp"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-3-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-3-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-3-310x220.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-3-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-3-370x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-3-370x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-3-570x633.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-3-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-3.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-4-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-4-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-4-570x633.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-4-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-4-770x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-4-770x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-4.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-5-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-5-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-5.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-5.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-6-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-6-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-7-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-7-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-8-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-8-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1-9-270x300.jpg",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1-9-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\1.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\2-1-370x270.webp",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\2-1-370x270.webp"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\2-1-70x78.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\2-1-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\2-2-370x270.webp",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\2-2-370x270.webp"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\2-2-70x78.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\2-2-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\2-3-70x78.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\2-3-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\2.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\3.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\car.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\car.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\card.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\card.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\dark.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\quotation.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\quotation.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\images\\website-images\\service.png",
+      "PackagePath": "staticwebassets\\assetsf\\images\\website-images\\service.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\js\\main.js",
+      "PackagePath": "staticwebassets\\assetsf\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\js\\plugins.min.js",
+      "PackagePath": "staticwebassets\\assetsf\\js\\plugins.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\js\\plugins\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\assetsf\\js\\plugins\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\js\\plugins\\jquery.counterup.js",
+      "PackagePath": "staticwebassets\\assetsf\\js\\plugins\\jquery.counterup.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\js\\plugins\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assetsf\\js\\plugins\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\js\\plugins\\jquery.nice-select.js",
+      "PackagePath": "staticwebassets\\assetsf\\js\\plugins\\jquery.nice-select.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\js\\plugins\\mailchimp-ajax.js",
+      "PackagePath": "staticwebassets\\assetsf\\js\\plugins\\mailchimp-ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\js\\plugins\\parallax.min.js",
+      "PackagePath": "staticwebassets\\assetsf\\js\\plugins\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\js\\plugins\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assetsf\\js\\plugins\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\js\\plugins\\tippy.min.js",
+      "PackagePath": "staticwebassets\\assetsf\\js\\plugins\\tippy.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\js\\plugins\\wow.min.js",
+      "PackagePath": "staticwebassets\\assetsf\\js\\plugins\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\js\\vendor\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assetsf\\js\\vendor\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\js\\vendor\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\assetsf\\js\\vendor\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\js\\vendor\\jquery-migrate-3.3.2.min.js",
+      "PackagePath": "staticwebassets\\assetsf\\js\\vendor\\jquery-migrate-3.3.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\js\\vendor\\jquery.waypoints.js",
+      "PackagePath": "staticwebassets\\assetsf\\js\\vendor\\jquery.waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\js\\vendor\\modernizr-3.11.2.min.js",
+      "PackagePath": "staticwebassets\\assetsf\\js\\vendor\\modernizr-3.11.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_404.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_404.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_about.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_animation.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_banner.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_blog.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_brand.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_cart.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_cart.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_checkout.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_checkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_compare.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_compare.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_faq.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_faq.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_login-register.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_login-register.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_my-account.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_my-account.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_navigation.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_navigation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_newsletter.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_newsletter.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_product.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_product.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_shipping.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_shipping.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_shop.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_shop.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_slider.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\_wishlist.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\_wishlist.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUSS\\Desktop\\Workspace\\Pronia\\Pronia.UI\\wwwroot\\assetsf\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\assetsf\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Pronia.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Pronia.UI.props",
+      "PackagePath": "build\\Pronia.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Pronia.UI.props",
+      "PackagePath": "buildMultiTargeting\\Pronia.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Pronia.UI.props",
+      "PackagePath": "buildTransitive\\Pronia.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
