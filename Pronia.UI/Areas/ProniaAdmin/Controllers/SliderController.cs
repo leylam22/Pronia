@@ -1,12 +1,15 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Pronia.Core.Entities;
+using Pronia.Core.Utilites;
 using Pronia.DataAccess.Contexts;
 using Pronia.UI.Areas.ProniaAdmin.ViewModels.SliderViewModel;
 
 namespace Pronia.UI.Areas.ProniaAdmin.Controllers;
 [Area("ProniaAdmin")]
+[Authorize(Roles = UserRole.Admin)]
 public class SliderController : Controller
 {
     private readonly AppDbContext _context;
